@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleArea", "TriangleArea\TriangleArea.csproj", "{CABE9014-CAEB-4493-A416-CB8329FF9999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{E815A412-0BA6-459F-9DD9-6BE3F35F59BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABE9014-CAEB-4493-A416-CB8329FF9999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABE9014-CAEB-4493-A416-CB8329FF9999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABE9014-CAEB-4493-A416-CB8329FF9999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABE9014-CAEB-4493-A416-CB8329FF9999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E815A412-0BA6-459F-9DD9-6BE3F35F59BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E815A412-0BA6-459F-9DD9-6BE3F35F59BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E815A412-0BA6-459F-9DD9-6BE3F35F59BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E815A412-0BA6-459F-9DD9-6BE3F35F59BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
