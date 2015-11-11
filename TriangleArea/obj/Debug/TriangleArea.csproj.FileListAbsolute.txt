@@ -1,0 +1,5 @@
+D:\Work\TriangleArea\TriangleArea\bin\Debug\TriangleArea.dll
+D:\Work\TriangleArea\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\Work\TriangleArea\TriangleArea\obj\Debug\TriangleArea.csprojResolveAssemblyReference.cache
+D:\Work\TriangleArea\TriangleArea\obj\Debug\TriangleArea.dll
+D:\Work\TriangleArea\TriangleArea\obj\Debug\TriangleArea.pdb
